@@ -1,0 +1,8 @@
+
+.level_2 .pop_txt { margin-left: 75px; width: 455px; }
+.level_2 .pop_pic { margin-left: 75px; }
+.level_3 .pop_txt { margin-left: 150px; width: 400px; }
+.level_3 .pop_pic { margin-left: 150px;  }
+.pop_txt h4 span.username { color: #235ca1; font: bold 14px/14px Verdana,Geneva,sans-serif; }
+.pop_txt h4 span.city { color: #929292; font: 12px/14px Verdana,Geneva,sans-serif; }
+.pop_txt p a, .pop_pic p a { cursor: pointer; }
